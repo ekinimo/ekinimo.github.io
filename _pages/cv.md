@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-# Ekin Alican Igdir
+Ekin Alican Igdir
 ======
 Ascheimer Strasse 2  
 Munich, Bavaria 81671  
 Email: igdir.ekin@gmail.com  
 
 
-## Summary
+Summary
 ======
 Highly skilled software developer with expertise in various programming languages and tools. Proven track record of successfully delivering software solutions and creating innovative frameworks. Strong problem-solving and analytical skills.
 
-## Professional Experience
+Professional Experience
 ======
 ### Software Developer  
 **Jenomics GMBH, Munich, Bavaria**  
@@ -32,7 +32,7 @@ Highly skilled software developer with expertise in various programming language
 - Designed and implemented a DataScroller for data acquisition and stream abstraction.
 - Packaged the application using Docker for easy deployment.
 
-## Education
+Education
 ======
 - **Master's Degree in Elektro- und Informationstechnik**  
   *Technische Universität München, 2016 – 2020*
@@ -41,7 +41,7 @@ Highly skilled software developer with expertise in various programming language
 - **Bachelor's Degree in Elektro- und Informationstechnik**  
   *Technische Universität München, 2011 – 2016*
 
-## Projects
+Projects
 ======
 
 ### Work
@@ -71,7 +71,7 @@ Highly skilled software developer with expertise in various programming language
 - Parallel Command Executor inspired by GNU Parallel in Rust
 - Simple Chat Application in Rust using the Actor Model
 
-## Languages and Tools/Frameworks
+Languages and Tools/Frameworks
 ======
 - **Languages:**
   - Java
