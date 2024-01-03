@@ -105,7 +105,9 @@ redirect_from:
   
 <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Languages and Tools/Frameworks</strong></summary>
-    <details>
+  <ul style="list-style-type:none;">
+         <li>  
+  <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 15px;"> <strong>Languages:</strong></summary> 
     <ul>
       <li>Java</li>
@@ -120,6 +122,8 @@ redirect_from:
       <li>JavaScript</li>
     </ul>
     </details>
+         </li>
+    <li>
   <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 15px;"> <strong>Tools/Frameworks:</strong></summary>
     <ul>
@@ -141,5 +145,7 @@ redirect_from:
       <li>Vue</li>
     </ul>
   </details>
+      </li>
+  </ul>
   </details>
 
