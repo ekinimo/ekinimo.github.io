@@ -102,12 +102,11 @@ redirect_from:
       <li>Simple Chat Application in Rust using the Actor Model</li>
     </ul>
   </details>
-</details>
-
+  
 <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Languages and Tools/Frameworks</strong></summary>
     <details>
-  <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"> <strong>Languages:</strong></summary> 
+  <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 15px;"> <strong>Languages:</strong></summary> 
     <ul>
       <li>Java</li>
       <li>C</li>
@@ -122,7 +121,7 @@ redirect_from:
     </ul>
     </details>
   <details>
-  <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"> <strong>Tools/Frameworks:</strong></summary>
+  <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 15px;"> <strong>Tools/Frameworks:</strong></summary>
     <ul>
       <li>QuickFIX</li>
       <li>OpenCV</li>
