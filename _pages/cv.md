@@ -25,13 +25,6 @@ redirect_from:
   <h3>Software Developer</h3>
   <p><strong>Jenomics GMBH, Munich, Bavaria</strong><br>
   <em>2021 - 2023</em></p>
-
-  <ul>
-    <li>Developed and maintained custom e-trading software, implementing a message broker using FIX standard.</li>
-    <li>Implemented graph algorithms to ensure the software generated Directed Acyclic Graphs (DAG).</li>
-    <li>Designed and implemented a DataScroller for data acquisition and stream abstraction.</li>
-    <li>Packaged the application using Docker for easy deployment.</li>
-  </ul>
 </details>
 
 <details>
@@ -41,7 +34,6 @@ redirect_from:
     <li><strong>Master's Degree in Elektro- und Informationstechnik</strong><br>
     Technische Universität München, 2016 – 2020<br></li>
     <p>Finished all the required courses, didn't hand in the thesis.</p>
-
     <li><strong>Bachelor's Degree in Elektro- und Informationstechnik</strong><br>
     Technische Universität München, 2011 – 2016</li>
   </ul>
@@ -51,7 +43,7 @@ redirect_from:
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Projects</strong></summary>
 
   <details>
-    <summary><h3>Work</h3></summary>
+    <summary>Work</summary>
     <ol>
       <li>
   <details>
@@ -104,8 +96,7 @@ redirect_from:
   </details>
 
   <details>
-    <summary><h3>Personal Projects</h3></summary>
-
+    <summary>Personal Projects</summary>
     <ul>
       <li>Monadic Parser Combinator in Rust</li>
       <li>Stack-Based Quasi-JIT Language in C</li>
