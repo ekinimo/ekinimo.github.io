@@ -73,9 +73,6 @@ Projects
 
 Languages and Tools/Frameworks
 ======
-<table>
-<tr>
-<th>
   <details>
   <summary>Languages:</summary>
 
@@ -90,8 +87,6 @@ Languages and Tools/Frameworks
   - MATLAB
   - JavaScript
 </details>
-</th>
-<th>
   <details>
   <summary>Frameworks/Tools:</summary>
 
@@ -112,7 +107,3 @@ Languages and Tools/Frameworks
   - Graphviz
   - Vue
 </details>
-</th>
-</tr>
-</table>
-
