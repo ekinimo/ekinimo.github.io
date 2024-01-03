@@ -41,7 +41,7 @@ redirect_from:
 
   <details>
     <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Work</strong></summary>
-    <ul style="list-style-type: none">
+    <ul style="list-style-type:none;">
       <li>
   <details>
     <summary style="font-size: 17px; color: #4CAF30; margin-bottom: 15px;">
