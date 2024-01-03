@@ -75,11 +75,10 @@ Languages and Tools/Frameworks
 ======
 <table>
 <tr>
-<th>Languages</th>
-<th>Tools/Frameworks</th>
-</tr>
-<tr>
-<td>
+<th>
+  <details>
+  <summary>Languages:</summary>
+
   - Java
   - C
   - Rust
@@ -90,8 +89,12 @@ Languages and Tools/Frameworks
   - AWK
   - MATLAB
   - JavaScript
-</td>
-<td>
+</details>
+</th>
+<th>
+  <details>
+  <summary>Frameworks/Tools:</summary>
+
   - QuickFIX
   - OpenCV
   - TensorFlow
@@ -108,7 +111,8 @@ Languages and Tools/Frameworks
   - GNU Radio
   - Graphviz
   - Vue
-</td>
+</details>
+</th>
 </tr>
 </table>
 
