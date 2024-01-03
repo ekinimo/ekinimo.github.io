@@ -39,15 +39,12 @@ redirect_from:
   </ul>
 </details>
 
-<details>
-  <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Projects</strong></summary>
-
   <details>
-    <summary>Work</summary>
-    <ol>
+    <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Work</strong></summary>
+    <ul>
       <li>
   <details>
-    <summary>
+    <summary style="font-size: 17px; color: #4CAF30; margin-bottom: 15px;">
         <strong>Custom E-Trading Software</strong>
     </summary>  
       <ul>
@@ -60,7 +57,7 @@ redirect_from:
       </li>
       <li>
   <details>
-    <summary>
+    <summary style="font-size: 17px; color: #4CAF30; margin-bottom: 15px;">
         <strong>Content Enrichment Framework</strong>
     </summary>  
       <ul>
@@ -72,7 +69,7 @@ redirect_from:
       </li>
       <li>
   <details>
-    <summary>
+    <summary style="font-size: 17px; color: #4CAF30; margin-bottom: 15px;">
         <strong>Piced Desk</strong>
     </summary>
         <ul>
@@ -83,7 +80,7 @@ redirect_from:
       </li>
       <li>
   <details>
-    <summary>
+    <summary style="font-size: 17px; color: #4CAF30; margin-bottom: 15px;">
         <strong>AG (In-house Project)</strong>
     </summary>
         <ul>
@@ -92,11 +89,11 @@ redirect_from:
         </ul>
   </details>
       </li>
-    </ol>
+    </ul>
   </details>
 
   <details>
-    <summary>Personal Projects</summary>
+    <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"> <strong>Personal Projects</strong></summary>
     <ul>
       <li>Monadic Parser Combinator in Rust</li>
       <li>Stack-Based Quasi-JIT Language in C</li>
