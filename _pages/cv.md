@@ -74,24 +74,43 @@ Projects
 Languages and Tools/Frameworks
 ======
 ## Languages and Tools/Frameworks
+
 ## Languages and Tools/Frameworks
 
-| Languages                   | Tools/Frameworks           |
-|-----------------------------|-----------------------------|
-| Java                        | QuickFIX                    |
-| C                           | OpenCV                      |
-| Rust                        | TensorFlow                  |
-| Bash                        | PyTorch                     |
-| Latex                       | Apache Tika                 |
-| Julia                       | Valgrind                    |
-| Python                      | Docker                      |
-| AWK                         | GDB                         |
-| MATLAB                      | Git                         |
-| JavaScript                  | Make                        |
-|                             | CMake                       |
-|                             | Microsoft Office            |
-|                             | Gnuplot                     |
-|                             | GNU Radio                   |
-|                             | Graphviz                    |
-|                             | Vue                         |
+<details style="display:inline-block; width: 48%;">
+  <summary><strong>Languages:</strong></summary>
+  <ul>
+    <li>Java</li>
+    <li>C</li>
+    <li>Rust</li>
+    <li>Bash</li>
+    <li>Latex</li>
+    <li>Julia</li>
+    <li>Python</li>
+    <li>AWK</li>
+    <li>MATLAB</li>
+    <li>JavaScript</li>
+  </ul>
+</details>
 
+<details style="display:inline-block; width: 48%;">
+  <summary><strong>Tools/Frameworks:</strong></summary>
+  <ul>
+    <li>QuickFIX</li>
+    <li>OpenCV</li>
+    <li>TensorFlow</li>
+    <li>PyTorch</li>
+    <li>Apache Tika</li>
+    <li>Valgrind</li>
+    <li>Docker</li>
+    <li>GDB</li>
+    <li>Git</li>
+    <li>Make</li>
+    <li>CMake</li>
+    <li>Microsoft Office</li>
+    <li>Gnuplot</li>
+    <li>GNU Radio</li>
+    <li>Graphviz</li>
+    <li>Vue</li>
+  </ul>
+</details>
