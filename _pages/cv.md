@@ -109,7 +109,6 @@ redirect_from:
 
 <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"><strong>Languages and Tools/Frameworks</strong></summary>
-
     <details>
   <summary style="font-size: 18px; color: #4CAF50; margin-bottom: 10px;"> <strong>Languages:</strong></summary> 
     <ul>
