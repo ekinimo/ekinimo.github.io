@@ -9,51 +9,89 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Ekin Alican Igdir
+Ascheimer Strasse 2  
+Munich, Bavaria 81671  
+Email: igdir.ekin@gmail.com  
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Summary
+Highly skilled software developer with expertise in various programming languages and tools. Proven track record of successfully delivering software solutions and creating innovative frameworks. Strong problem-solving and analytical skills.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional Experience
+### Software Developer  
+**Jenomics GMBH, Munich, Bavaria**  
+*2021 - 2023*
+
+- Developed and maintained custom e-trading software, implementing a message broker using FIX standard.
+- Implemented graph algorithms to ensure the software generated Directed Acyclic Graphs (DAG).
+- Designed and implemented a DataScroller for data acquisition and stream abstraction.
+- Packaged the application using Docker for easy deployment.
+
+## Education
+- **Master's Degree in Elektro- und Informationstechnik**  
+  *Technische Universität München, 2016 – 2020*
+
+- **Bachelor's Degree in Elektro- und Informationstechnik**  
+  *Technische Universität München, 2011 – 2016*
+
+## Languages
+- Java
+- C
+- Rust
+- Bash
+- Latex
+- Julia
+- Python
+- AWK
+- MATLAB
+
+## Tools/Frameworks
+- QuickFIX
+- OpenCV
+- TensorFlow
+- PyTorch
+- Apache Tika
+- Valgrind
+- Docker
+- GDB
+- Git
+- Make
+- CMake
+- Microsoft Office
+- Gnuplot
+- GNU Radio
+- Graphviz
+
+## Projects
+
+### Work
+
+1. **Custom E-Trading Software**
+   - Implemented a message broker using FIX standard.
+   - Ensured that the software generated Directed Acyclic Graphs (DAG).
+   - Designed and implemented a DataScroller for data acquisition and stream abstraction.
+   - Packaged the application using Docker.
+
+2. **Content Enrichment Framework**
+   - Developed a framework for inspecting files.
+   - Created a parallel execution strategy for jobs with a graphviz export option.
+   - Implemented jobs such as Face Recognition, Object Detection, and Dominant Colors using OpenCV and Torch.
+
+3. **Piced Desk**
+   - Developed a GUI app to validate and fix zip files according to specific specifications.
+   - Implemented using Java Swing, running on Windows.
+
+4. **AG (In-house Project)**
+   - Created a designer, including a thin wrapper around OpenCV.
+   - Implemented AI-related image analyzers.
+
+### Personal Projects
+- Monadic Parser Combinator in Rust
+- Stack-Based Quasi-JIT Language in C
+- Pattern Matching-Based Language in Rust
+- Parallel Command Executor inspired by GNU Parallel in Rust
+- Simple Chat Application in Rust using the Actor Model
+
+## References
+Available upon request.
