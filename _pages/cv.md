@@ -73,9 +73,14 @@ Projects
 
 Languages and Tools/Frameworks
 ======
-<details>
-  <summary>Languages:</summary>
-
+<table>
+<tr>
+<th>Languages</th>
+<th>Tools/Frameworks</th>
+</tr>
+<tr>
+<td>
+  ```
 - Java
 - C
 - Rust
@@ -86,13 +91,11 @@ Languages and Tools/Frameworks
 - AWK
 - MATLAB
 - JavaScript
-
-</details>
-
-<details>
-  <summary>Tools/Frameworks:</summary>
-
-- QuickFIX
+```
+</td>
+<td>
+```
+  - QuickFIX
 - OpenCV
 - TensorFlow
 - PyTorch
@@ -108,5 +111,8 @@ Languages and Tools/Frameworks
 - GNU Radio
 - Graphviz
 - Vue
+```
+</td>
+</tr>
+</table>
 
-</details>
