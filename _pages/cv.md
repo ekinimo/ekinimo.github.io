@@ -74,50 +74,24 @@ Projects
 Languages and Tools/Frameworks
 ======
 ## Languages and Tools/Frameworks
+## Languages and Tools/Frameworks
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 45%;">
-<details>
-  <summary>Languages:</summary>
-
-- Java
-- C
-- Rust
-- Bash
-- Latex
-- Julia
-- Python
-- AWK
-- MATLAB
-- JavaScript
-
-</details>
-</div>
-
-<div style="width: 45%;">
-<details>
-  <summary>Tools/Frameworks:</summary>
-
-- QuickFIX
-- OpenCV
-- TensorFlow
-- PyTorch
-- Apache Tika
-- Valgrind
-- Docker
-- GDB
-- Git
-- Make
-- CMake
-- Microsoft Office
-- Gnuplot
-- GNU Radio
-- Graphviz
-- Vue
-
-</details>
-</div>
-
-</div>
+| Languages                   | Tools/Frameworks           |
+|-----------------------------|-----------------------------|
+| Java                        | QuickFIX                    |
+| C                           | OpenCV                      |
+| Rust                        | TensorFlow                  |
+| Bash                        | PyTorch                     |
+| Latex                       | Apache Tika                 |
+| Julia                       | Valgrind                    |
+| Python                      | Docker                      |
+| AWK                         | GDB                         |
+| MATLAB                      | Git                         |
+| JavaScript                  | Make                        |
+|                             | CMake                       |
+|                             | Microsoft Office            |
+|                             | Gnuplot                     |
+|                             | GNU Radio                   |
+|                             | Graphviz                    |
+|                             | Vue                         |
 
