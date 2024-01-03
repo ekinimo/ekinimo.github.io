@@ -80,7 +80,6 @@ Languages and Tools/Frameworks
 </tr>
 <tr>
 <td>
-  ```
   - Java
   - C
   - Rust
@@ -91,27 +90,24 @@ Languages and Tools/Frameworks
   - AWK
   - MATLAB
   - JavaScript
-```
 </td>
 <td>
-```
   - QuickFIX
-- OpenCV
-- TensorFlow
-- PyTorch
-- Apache Tika
-- Valgrind
-- Docker
-- GDB
-- Git
-- Make
-- CMake
-- Microsoft Office
-- Gnuplot
-- GNU Radio
-- Graphviz
-- Vue
-```
+  - OpenCV
+  - TensorFlow
+  - PyTorch
+  - Apache Tika
+  - Valgrind
+  - Docker
+  - GDB
+  - Git
+  - Make
+  - CMake
+  - Microsoft Office
+  - Gnuplot
+  - GNU Radio
+  - Graphviz
+  - Vue
 </td>
 </tr>
 </table>
