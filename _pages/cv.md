@@ -81,16 +81,16 @@ Languages and Tools/Frameworks
 <tr>
 <td>
   ```
-- Java
-- C
-- Rust
-- Bash
-- Latex
-- Julia
-- Python
-- AWK
-- MATLAB
-- JavaScript
+  - Java
+  - C
+  - Rust
+  - Bash
+  - Latex
+  - Julia
+  - Python
+  - AWK
+  - MATLAB
+  - JavaScript
 ```
 </td>
 <td>
